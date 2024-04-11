@@ -5,7 +5,7 @@ I embarked on this project as a series of practice exercises after dedicating a 
 
 Project number: 1
 
-**You can see this web app in GitGub pages**
+[**You can see this web app in GitGub-Pages**](https://hadi-mollataheri.github.io/hello-world-app/)
 
 ## Available Scripts
 
