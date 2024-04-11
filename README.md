@@ -5,6 +5,8 @@ I embarked on this project as a series of practice exercises after dedicating a 
 
 Project number: 1
 
+**You can see this web app in GitGub pages**
+
 ## Available Scripts
 
 In the project directory, you can run:
